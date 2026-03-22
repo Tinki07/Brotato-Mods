@@ -1,0 +1,18 @@
+{
+	"name": "BigMapSolo",
+	"namespace": "Tinki",
+	"version_number": "1.1.0",
+	"description": "Lock the camera to display the entire map instead of following the player! Press Middle Click to swith camera mode.",
+	"website_url": "https://github.com/BrotatoMods",
+	"dependencies": [],
+	"extra": {
+		"godot": {
+			"incompatibilities": [],
+			"authors": ["Tinki"],
+			"tags": ["hud","rework"],
+			"compatible_mod_loader_version": ["6.2.0"],
+			"compatible_game_version": ["1.2.3"],
+			"config_defaults": {}
+		}
+	}
+}
